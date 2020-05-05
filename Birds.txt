@@ -1,0 +1,35 @@
+Marv: Common Raven
+Color: black iridescent
+Beak Color: black
+Beak Shape: large and slightly curved
+Wingspan: 130 cm
+Body Length: 59 cm
+
+Bill: Common Raven
+Color: black
+Beak Color: black
+Beak Shape: large
+Wingspan: 116 cm
+Body Length: 60 cm
+
+Steve: American Crow
+Color: black iridescent
+Beak Color: black
+Beak Shape: medium
+Wingspan: 30 cm
+Body Length: 42 cm
+
+Phil: Gary Parrot
+Color: light-gray, cherry tail
+Beak Color: black
+Beak Shape: curved
+Wingspan: 50 cm
+Body Length: 33 cm
+
+Alex: Timneh Parrot
+Color: charcoal gray
+Beak Color: black
+Beak Shape: curved
+Wingspan: 35 cm
+Body Length: 25 cm
+
